@@ -50,10 +50,10 @@ master_doc = 'contents'
 
 # General information about the project.
 project = 'Administration Guide'
-copyright = '2021 - Gladinet, Inc. All Rights Reserved'
-author = 'Gladinet, Inc.'
+copyright = '2021 - Shareorigin LLC. All Rights Reserved'
+author = 'Shareorigin LLC'
 
-prodname = 'CentreStack'
+prodname = 'Shareorigin'
 
 rst_epilog = '.. |prodname| replace:: %s' % prodname
 
