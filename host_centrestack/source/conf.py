@@ -48,22 +48,22 @@ source_suffix = '.rst'
 master_doc = 'content'
 
 # General information about the project.
-project = u'Hosted CentreStack Admin Guide'
-copyright = u'2018, Gladinet, Inc.'
-author = u'Gladinet, Inc.'
+project = u'Hosted Shareorigin Admin Guide'
+copyright = u'2021, Shareorigin LLC'
+author = u'Shareorigin LLC'
 
 # TR Edit
 # The following variables weren't working as a pair as replacements, not sure how to code this, so I've commented them out and directly replaced them below.
-# websiteurl = u'https://centrestack.com/'
-# prodname = u'CentreStack'
+# websiteurl = u'https://shareorigin.com/'
+# prodname = u'Shareorigin'
 #
 # rst_epilog = '.. |prodname| replace:: %s' % prodname
 #
 # Direct replacements of variables in the document
 
 rst_epilog = """
-.. |prodname| replace:: CentreStack
-.. |websiteurl| replace:: https://centrestack.com/
+.. |prodname| replace:: Shareorigin
+.. |websiteurl| replace:: https://shareorigin.com/
 """
 # End TR Edit
 
@@ -118,7 +118,7 @@ html_static_path = ['_static']
 # -- Options for HTMLHelp output ------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'HostedCentreStackAdminGuidedoc'
+htmlhelp_basename = 'HostedShareoriginAdminGuidedoc'
 
 
 # -- Options for LaTeX output ---------------------------------------------
@@ -145,7 +145,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'HostedCentreStackAdminGuide.tex', u'Hosted CentreStack Admin Guide Documentation',
+    (master_doc, 'HostedShareoriginAdminGuide.tex', u'Hosted Shareorigin Admin Guide Documentation',
      u'Gladinet, Inc.', 'manual'),
 ]
 
@@ -155,7 +155,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'hostedcentrestackadminguide', u'Hosted CentreStack Admin Guide Documentation',
+    (master_doc, 'hostedshareoriginadminguide', u'Hosted Shareorigin Admin Guide Documentation',
      [author], 1)
 ]
 
@@ -166,8 +166,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'HostedCentreStackAdminGuide', u'Hosted CentreStack Admin Guide Documentation',
-     author, 'HostedCentreStackAdminGuide', 'One line description of project.',
+    (master_doc, 'HostedShareoriginAdminGuide', u'Hosted Shareorigin Admin Guide Documentation',
+     author, 'HostedShareoriginAdminGuide', 'One line description of project.',
      'Miscellaneous'),
 ]
 
