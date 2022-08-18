@@ -50,10 +50,10 @@ master_doc = 'contents'
 
 # General information about the project.
 project = 'Web Portal User Guide'
-copyright = '2021 - Gladinet, Inc. All Rights Reserved'
-author = 'Gladinet, Inc.'
+copyright = '2021 - Shareorigin LLC All Rights Reserved'
+author = 'Shareorigin LLC'
 
-prodname = 'CentreStack'
+prodname = 'Shareorigin'
 
 rst_epilog = '.. |prodname| replace:: %s' % prodname
 
@@ -260,7 +260,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'centrestackwebportaluserguide', 'CentreStack Web Portal User Guide Documentation',
+    (master_doc, 'centrestackwebportaluserguide', 'Shareorigin Web Portal User Guide Documentation',
      [author], 1)
 ]
 
@@ -274,7 +274,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  (master_doc, 'CentreStackWebPortalUserGuide', 'CentreStack Web Portal User Guide Documentation',
+  (master_doc, 'CentreStackWebPortalUserGuide', 'Shareorigin Web Portal User Guide Documentation',
    author, 'CentreStackWebPortalUserGuide', 'One line description of project.',
    'Miscellaneous'),
 ]
