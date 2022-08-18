@@ -62,8 +62,8 @@ author = u'Shareorigin LLC'
 # Direct replacements of variables in the document
 
 rst_epilog = """
-.. |prodname| replace:: Shareorigin
-.. |websiteurl| replace:: https://shareorigin.com/
+.. |prodname| replace:: CentreStack
+.. |websiteurl| replace:: https://centreStack.com/
 """
 # End TR Edit
 
