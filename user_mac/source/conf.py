@@ -51,10 +51,10 @@ master_doc = 'content'
 
 # General information about the project.
 project = 'Mac Client User Guide'
-copyright = '2019, Gladinet Inc'
-author = 'centrestack'
+copyright = '2021, Shareorigin LLC'
+author = 'Shareorigin LLC'
 
-prodname = 'CentreStack'
+prodname = 'Shareorigin'
 
 rst_epilog = '.. |prodname| replace:: %s' % prodname
 
@@ -261,7 +261,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'centrestackmacclientuserguide', 'CentreStack Mac Client User Guide Documentation',
+    (master_doc, 'centrestackmacclientuserguide', 'Shareorigin Mac Client User Guide Documentation',
      [author], 1)
 ]
 
@@ -275,7 +275,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  (master_doc, 'CentreStackMacClientUserGuide', 'CentreStack Mac Client User Guide Documentation',
+  (master_doc, 'CentreStackMacClientUserGuide', 'Shareorigin Mac Client User Guide Documentation',
    author, 'CentreStackMacClientUserGuide', 'One line description of project.',
    'Miscellaneous'),
 ]
