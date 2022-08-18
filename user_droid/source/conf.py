@@ -50,8 +50,8 @@ master_doc = 'contents'
 
 # General information about the project.
 project = 'Android User Guide'
-copyright = '2021 - Gladinet, Inc. All Rights Reserved'
-author = 'Gladinet, Inc.'
+copyright = '2021 - Shareorigin LLC All Rights Reserved'
+author = 'Shareorigin LLC'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -226,8 +226,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  (master_doc, 'CentreStackAndroidUserGuide.tex', 'CentreStack Android User Guide Documentation',
-   'Gladinet, Inc.', 'manual'),
+  (master_doc, 'CentreStackAndroidUserGuide.tex', 'Shareorigin Android User Guide Documentation',
+   'Shareorigin LLC', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -256,7 +256,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'centrestackandroiduserguide', 'CentreStack Android User Guide Documentation',
+    (master_doc, 'centrestackandroiduserguide', 'Shareorigin Android User Guide Documentation',
      [author], 1)
 ]
 
@@ -270,7 +270,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  (master_doc, 'CentreStackAndroidUserGuide', 'CentreStack Android User Guide Documentation',
+  (master_doc, 'CentreStackAndroidUserGuide', 'Shareorigin Android User Guide Documentation',
    author, 'CentreStackAndroidUserGuide', 'One line description of project.',
    'Miscellaneous'),
 ]
