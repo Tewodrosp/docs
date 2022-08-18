@@ -52,8 +52,8 @@ master_doc = 'contents'
 
 # General information about the project.
 project = 'Installation Guide'
-copyright = '2020, Gladinet, Inc.'
-author = 'Gladinet, Inc.'
+copyright = '2021, Shareorigin LLC'
+author = 'Shareorigin LLC'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -241,8 +241,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  (master_doc, 'TriofoxInstallationGuide.tex', 'Triofox Installation Guide Documentation',
-   'Gladinet, Inc.', 'manual'),
+  (master_doc, 'TriofoxInstallationGuide.tex', 'Shareorigin Installation Guide Documentation',
+   'Shareorigin LLC', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -271,7 +271,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'Triofoxinstallationguide', 'Triofox Installation Guide Documentation',
+    (master_doc, 'Triofoxinstallationguide', 'Shareorigin Installation Guide Documentation',
      [author], 1)
 ]
 
@@ -285,7 +285,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  (master_doc, 'TriofoxInstallationGuide', 'Triofox Installation Guide Documentation',
+  (master_doc, 'TriofoxInstallationGuide', 'Shareorigin Installation Guide Documentation',
    author, 'TriofoxInstallationGuide', 'One line description of project.',
    'Miscellaneous'),
 ]
