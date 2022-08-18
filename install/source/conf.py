@@ -50,10 +50,10 @@ master_doc = 'contents'
 
 # General information about the project.
 project = 'Installation Guide'
-copyright = '2021 - Gladinet, Inc. All Rights Reserved'
-author = 'Gladinet, Inc.'
+copyright = '2021 - Shareorigin LLC All Rights Reserved'
+author = 'Shareorigin LLC.'
 
-prodname = 'CentreStack'
+prodname = 'Shareorigin'
 
 rst_epilog = '.. |prodname| replace:: %s' % prodname
 # The version info for the project you're documenting, acts as replacement for
@@ -210,7 +210,7 @@ html_static_path = ['_static']
 #html_search_scorer = 'scorer.js'
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'CentreStackInstallationGuidedoc'
+htmlhelp_basename = 'ShareoriginInstallationGuidedoc'
 
 # -- Options for LaTeX output ---------------------------------------------
 
@@ -232,8 +232,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  (master_doc, 'CentreStackInstallationGuide.tex', 'CentreStack Installation Guide Documentation',
-   'Gladinet, Inc.', 'manual'),
+  (master_doc, 'ShareoriginInstallationGuide.tex', 'Shareorigin Installation Guide Documentation',
+   'Shareorigin LLC', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -262,7 +262,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'centrestackinstallationguide', 'CentreStack Installation Guide Documentation',
+    (master_doc, 'shareorigininstallationguide', 'Shareorigin Installation Guide Documentation',
      [author], 1)
 ]
 
@@ -276,8 +276,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  (master_doc, 'CentreStackInstallationGuide', 'CentreStack Installation Guide Documentation',
-   author, 'CentreStackInstallationGuide', 'One line description of project.',
+  (master_doc, 'ShareoriginInstallationGuide', 'Shareorigin Installation Guide Documentation',
+   author, 'ShareoriginInstallationGuide', 'One line description of project.',
    'Miscellaneous'),
 ]
 
