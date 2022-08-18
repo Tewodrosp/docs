@@ -2,7 +2,7 @@
 Partner Portal
 #######################
 
-To start the Hosted-|prodname| version, the first thing to do is to acquire a |prodname| partner account and login to the web portal.
+To start the Hosted-|prodname| version, the first thing to do is to acquire a |prodname| partner account and login to the web portal (portal.shareorigin.com).
 
 .. figure:: _static/image_s2_1_1.png
     :align: center
