@@ -50,10 +50,10 @@ master_doc = 'contents'
 
 # General information about the project.
 project = 'Windows Client Guide'
-copyright = '2018, GreenCity Solutions'
-author = 'GreenCity Solutions'
+copyright = '2021, Shareorigin LLC'
+author = 'Shareorigin LLC'
 
-prodname = 'DIVVIED'
+prodname = 'Shareorigin'
 
 rst_epilog = '.. |prodname| replace:: %s' % prodname
 
@@ -230,7 +230,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  (master_doc, 'CentreStackWindowsClientGuide.tex', 'DIVVIED Windows Client Guide Documentation',
+  (master_doc, 'CentreStackWindowsClientGuide.tex', 'Shareorigin Windows Client Guide Documentation',
      author, 'manual'),
 ]
 
@@ -260,7 +260,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'centrestackwindowsclientguide', 'CentreStack Windows Client Guide Documentation',
+    (master_doc, 'centrestackwindowsclientguide', 'Shareorigin Windows Client Guide Documentation',
      [author], 1)
 ]
 
@@ -274,7 +274,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  (master_doc, 'CentreStackWindowsClientGuide', 'DIVVIED Windows Client Guide Documentation',
+  (master_doc, 'CentreStackWindowsClientGuide', 'Shareorigin Windows Client Guide Documentation',
    author, 'CentreStackWindowsClientGuide', 'One line description of project.',
    'Miscellaneous'),
 ]
