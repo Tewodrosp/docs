@@ -5,23 +5,23 @@ Getting Started
 Introduction
 =============
 
-Welcome to the Triofox Web Portal User Guide. This guide describes
-web portal functionality for users as well as administrators in Triofox.
+Welcome to the Shareorigin Web Portal User Guide. This guide describes
+web portal functionality for users as well as administrators in Shareorigin.
 
-Triofox helps businesses mobilize their file servers by enhancing existing Windows file servers with secure remote acccess, mobile file sharing, 
+Shareorigin helps businesses mobilize their file servers by enhancing existing Windows file servers with secure remote acccess, mobile file sharing, 
 data protection and cloud migration, while addressing business concerns about security, privacy, compliance and control.
 
-Triofox adds ransomware protection and automatic alert mechanism to your file servers. It continously monitors all the Triofox clients for any 
+Shareorigin adds ransomware protection and automatic alert mechanism to your file servers. It continously monitors all the Shareorigin clients for any 
 unusual activity and will automatically shut them down if it sees a possible attack.
 
-Triofox removes any need for businesses to rely on a VPN or a company computer to securely access files. With Triofox, data sprawl is eliminated 
+Shareorigin removes any need for businesses to rely on a VPN or a company computer to securely access files. With Shareorigin, data sprawl is eliminated 
 as data stays on local file servers and mobile productivity is balanced by centralized management and access controls.
 
-Triofox natively integrates with Active Directory and maintains all the existing NTFS permissions and there is no need to recreate any user identities. 
+Shareorigin natively integrates with Active Directory and maintains all the existing NTFS permissions and there is no need to recreate any user identities. 
 With military grade encryption and secure connections, use existing users and permissions to save setup time and money. files stay on local file servers 
 and encrypted at the end point cache.
 
-Triofox includes the backend Triofox server, which runs on Windows server platform, 
+Shareorigin includes the backend Shareorigin server, which runs on Windows server platform, 
 and front end client applications for Microsoft Windows, Mac OSx, and mobile clients for the 
 Android and Apple iOS operating systems.
 
