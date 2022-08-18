@@ -50,10 +50,10 @@ master_doc = 'contents'
 
 # General information about the project.
 project = 'File Server Agent User Guide'
-copyright = '2018, Gladinet, Inc.'
-author = 'Gladinet, Inc.'
+copyright = 'Shareorigin LLC.'
+author = 'Shareorigin LLC'
 
-prodname = 'CentreStack'
+prodname = 'Shareorigin'
 
 rst_epilog = '.. |prodname| replace:: %s' % prodname
 
@@ -230,8 +230,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  (master_doc, 'CentreStackFileServerAgent.tex', 'CentreStack File Server Agent Documentation',
-   'Gladinet, Inc.', 'manual'),
+  (master_doc, 'CentreStackFileServerAgent.tex', 'Shareorigin File Server Agent Documentation',
+   'Shareorigin LLC', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -260,7 +260,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'centrestackfileserveragent', 'CentreStack File Server Agent Documentation',
+    (master_doc, 'centrestackfileserveragent', 'Shareorigin File Server Agent Documentation',
      [author], 1)
 ]
 
@@ -274,7 +274,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  (master_doc, 'CentreStackFileServerAgent', 'CentreStack File Server Agent Documentation',
+  (master_doc, 'CentreStackFileServerAgent', 'Shareorigin File Server Agent Documentation',
    author, 'CentreStackFileServerAgent', 'One line description of project.',
    'Miscellaneous'),
 ]
