@@ -118,7 +118,7 @@ html_static_path = ['_static']
 # -- Options for HTMLHelp output ------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'HostedShareoriginAdminGuidedoc'
+htmlhelp_basename = 'HostedCentreStackAdminGuidedoc'
 
 
 # -- Options for LaTeX output ---------------------------------------------
@@ -145,8 +145,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'HostedShareoriginAdminGuide.tex', u'Hosted Shareorigin Admin Guide Documentation',
-     u'Gladinet, Inc.', 'manual'),
+    (master_doc, 'HostedCentreStackAdminGuide.tex', u'Hosted Shareorigin Admin Guide Documentation',
+     u'Shareorigin LLC', 'manual'),
 ]
 
 
@@ -155,7 +155,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'hostedshareoriginadminguide', u'Hosted Shareorigin Admin Guide Documentation',
+    (master_doc, 'hostedcentreStackadminguide', u'Hosted Shareorigin Admin Guide Documentation',
      [author], 1)
 ]
 
@@ -166,8 +166,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'HostedShareoriginAdminGuide', u'Hosted Shareorigin Admin Guide Documentation',
-     author, 'HostedShareoriginAdminGuide', 'One line description of project.',
+    (master_doc, 'HostedCentreStackAdminGuide', u'Hosted Shareorigin Admin Guide Documentation',
+     author, 'HostedCentreStackAdminGuide', 'One line description of project.',
      'Miscellaneous'),
 ]
 
