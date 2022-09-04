@@ -9,24 +9,17 @@ Overview of |prodname|
    3. mirror local network share to team collaboration in the cloud
 
 
-Self-Hosted |prodname|
+|prodname| Cloud
 ============================
 
-|prodname| is pure software that is built on top of the Microsoft Web Platform and is to be deployed on a Microsoft Server. 
+|prodname| software is built on top of the Microsoft Web Platform and deployed on a Microsoft Server. 
 
-This option gives Managed Service Providers and Enterprise IT maximum control and flexibility on how they want to combine the traditional file server security, control and the ease of use from an internet-facing file sharing solution.
-
-Hosted |prodname|
-============================
-
-The same |prodname| software is already deployed and maintained in Amazon Web Services (EC2 + S3). 
+The software is already deployed and maintained in Amazon Web Services (EC2 + S3). 
 
 This option gives a Managed Service Provider the easiest on-ramp to a |prodname| solution without the hassle of setting up |prodname| themselves.
 
+For MSP channel program contact us here: https://shareorigin.com/contact.html 
 
-.. note::
 
-    This guide is about Hosted-|prodname|. Please reference the |prodname| `Admin Guide`__ for self-hosted |prodname|.
 
-.. _Admin_Guide: https://centrestack.com/Library/AdminGuide/ 
-__ Admin_Guide_
+
