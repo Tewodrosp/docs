@@ -17,7 +17,7 @@ Partner Portal
 
 The Partner Portal is used primarily for managing licenses and licenses distribution amongst all of your |prodname| Servers. 
 
-The partner portal is located at https://www.centrestack.com, and you can login through here: https://www.centrestack.com/management/partnerloginpage.aspx. From the Partner Portal you can download the |prodname| software as well as manage the licensing of your Servers.
+The partner portal is located at https://portal.shareorigin.com, and you can login through here: https://portal.shareorigin.com/portal/loginpage.aspx From the Partner Portal you can download the |prodname| software as well as manage the licensing of your Servers.
 
 .. tip::
 
@@ -25,7 +25,7 @@ The partner portal is located at https://www.centrestack.com, and you can login 
     the end of the trial, you assign licenses from the partner portal to your
     Server and activate it into a production environment.
 
-Both Self-Hosted Servers and Hosted CentreStack Tenants (sync4share) can be managed via the Partner Portal.
+Both Self-Hosted Servers and Hosted ShareOrigin Tenants can be managed via the Partner Portal.
 
 *******************************************
 Self-Hosted |prodname|
@@ -33,11 +33,11 @@ Self-Hosted |prodname|
 
 In the User Interface, the Self-Hosted |prodname| instance is referred to as a Cluster or a Server Farm. A Cluster can be as small as a single Server or scaled out to include multiple Servers in a Server farm.
 
-**Hosted CentreStack**
+**Hosted ShareOrigin**
 
-In the Partner Portal, you can also manage tenants which are hosted by CentreStack (sync4share).
-This document doesn't cover Hosted CentreStack. Please refer to the Hosted
-CentreStack Administration Guide (https://www.centrestack.com/Library/HostedCentreStackGuide/index.html) for more information on hosted options.
+In the Partner Portal, you can also manage tenants which are hosted by ShareOrigin.
+This document doesn't cover Hosted ShareOrigin. Please refer to the Hosted
+ShareOrigin Administration Guide (https://shareoriginportal.readthedocs.io/en/latest/) for more information on hosted options.
 
 **Tenants**
 
